@@ -1,7 +1,7 @@
 {
     "app_name": "Redis Realtime",
     "description": "Build realtime applications on top of redis",
-    "hidden": "false",
+    "hidden": "true",
     "rank": "",
     "type": "Building Block",
     "contributed_by": "",
