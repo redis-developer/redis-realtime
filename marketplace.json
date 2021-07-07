@@ -1,23 +1,30 @@
 {
     "app_name": "Redis Realtime",
-    "description": "Build realtime applications on top of redis",
-    "hidden": "true",
-    "rank": "",
+    "description": "Build realtime applications using RedisJSON",
+    "rank": "260",
     "type": "Building Block",
-    "contributed_by": "",
-    "repo_url": "https://github.com/shamin/redis-realtime",
-    "download_url": "https://github.com/shamin/redis-realtime/archive/refs/heads/main.zip",
+    "contributed_by": "Community",
+    "repo_url": "https://github.com/redis-developer/redis-realtime",
+    "download_url": "https://github.com/redis-developer/redis-realtime/archive/refs/heads/main.zip",
     "hosted_url": "",
-    "quick_deploy": "",
-    "deploy_buttons": [],
+    "quick_deploy": "true",
+    "deploy_buttons": [
+    {
+      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-realtime"
+    },
+   
+    {
+      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redis-realtime"
+    }
+  ],
     "language": ["Typescript"],
     "redis_commands": ["JSON.GET", "JSON.SET", "JSON.DEL", "JSON.ARRINSERT", "JSON.ARRINDEX", "JSON.ARRPOP", "SUBSCRIBE", "PUBLISH"],
-    "redis_features": ["json", "pubsub"],
+    "redis_features": ["JSON", "Pub/Sub"],
     "redis_modules": ["RediJSON"],
     "app_image_urls": [
-    "https://raw.githubusercontent.com/shamin/redis-realtime/main/images/thumbnail.png"],
-    "youtube_url": "https://youtu.be/2Ez0Sg-QyEw",
+    "https://raw.githubusercontent.com/redis-developer/redis-realtime/main/images/thumbnail.png"],
+    "youtube_url": "https://www.youtube.com/watch?v=2Ez0Sg-QyEw",
     "special_tags": ["Hackathon"],
     "verticals": [],
-    "markdown": "https://raw.githubusercontent.com/shamin/redis-realtime/main/README.md",
+    "markdown": "https://raw.githubusercontent.com/redis-developer/redis-realtime/main/README.md"
 }
