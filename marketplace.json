@@ -19,7 +19,7 @@
   ],
     "language": ["Typescript"],
     "redis_commands": ["JSON.GET", "JSON.SET", "JSON.DEL", "JSON.ARRINSERT", "JSON.ARRINDEX", "JSON.ARRPOP", "SUBSCRIBE", "PUBLISH"],
-    "redis_features": ["JSON", "Pub/Sub"],
+    "redis_features": ["Pub/Sub"],
     "redis_modules": ["RedisJSON"],
     "app_image_urls": [
     "https://raw.githubusercontent.com/redis-developer/redis-realtime/main/images/thumbnail.png"],
