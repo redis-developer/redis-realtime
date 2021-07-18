@@ -32,7 +32,8 @@ npm install
 
 Start the backend server
 ```
-cd example/realtime-be && npm start
+cd example/realtime-be 
+npm start
 ```
 
 Start the frontend
