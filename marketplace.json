@@ -24,7 +24,7 @@
     "redis_modules": ["RedisJSON"],
     "app_image_urls": [
     "https://raw.githubusercontent.com/redis-developer/redis-realtime/main/images/thumbnail.png"],
-    "youtube_url": "https://www.youtube.com/watch?v=2Ez0Sg-QyEw",
+    "youtube_url": "https://www.youtube.com/watch?v=CA5CnuUjnoA",
     "special_tags": ["Hackathon"],
     "verticals": ["Technology"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/redis-realtime/main/README.md"
