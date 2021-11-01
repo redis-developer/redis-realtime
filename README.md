@@ -49,4 +49,4 @@ cd example/realtime-fe && npm run dev
 ## Detailed Architecture
 Redis realtime packages detailed architecture.
 
-![Detailed Architecture](./images/detailedArchitecture.png)
+![Detailed Architecture](https://raw.githubusercontent.com/redis-developer/redis-realtime/main/images/detailedArchitecture.png)
