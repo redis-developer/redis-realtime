@@ -1,6 +1,6 @@
 # Redis Realtime
 
-Redis-realtime is a set of packages for React and Node.JS that can be used to build scalable real-time services on top of Redis. 
+Redis-realtime is a set of packages for React and Node.JS that can be used to build scalable real-time services on top of Redis.
 
 ![architecture](https://raw.githubusercontent.com/redis-developer/redis-realtime/main/images/architecture.png)
 
@@ -18,7 +18,7 @@ This project is a monorepo with the packages and a example and it uses npm works
 ### Prerequisites
 - Requires npm v7 or above.
 - Ideal nodejs version v14.8
-- Redis running with RedisJSON Module. You can use this [docker-compose.yml](./examples/realtime-be/docker-compose.yml)
+- Redis running with Redis JSON Module. You can use this [docker-compose.yml](./examples/realtime-be/docker-compose.yml)
 
 ### Run examples Locally
 
